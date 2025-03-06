@@ -9,7 +9,7 @@ The **Sarawak Infectious Disease Centre (SIDC)** is dedicated to combating infec
 - **Epidemiological research** to understand disease patterns and outbreaks.
 - **Vaccine and therapeutics development** for effective treatments.
 - **Public health initiatives** to improve disease prevention and response.
-- **Capacity building and human capital development
+- **Capacity building and human** capital development
 - **Collaboration with global and local health agencies** to drive impactful solutions.
 
 ## Our Mission
