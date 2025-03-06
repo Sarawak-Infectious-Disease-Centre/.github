@@ -27,6 +27,6 @@ We welcome contributions from researchers, data scientists, developers, and heal
 - Sharing knowledge and insights with the community.
 
 ## Contact Us
-For collaborations, inquiries, or more information, visit our official website: [sidc.org.my](https://sidc.org.my) or reach out via email: **contact@sidc.org.my**.
+For collaborations, inquiries, or more information, visit our official website: [sidc.org.my](https://sidc.org.my) or reach out via email: **contact [at] sidc [dot] org [dot] my**.
 
 ---
