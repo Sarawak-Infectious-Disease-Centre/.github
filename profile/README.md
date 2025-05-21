@@ -1,6 +1,6 @@
 # Welcome to the Sarawak Infectious Disease Centre (SIDC) GitHub Organization
 
-![SIDC Logo](https://sidcsarawak.com/wp-content/uploads/2024/03/Logo-Footer.svg) 
+![SIDC Logo](https://sidc.org.my/wp-content/uploads/2024/03/Logo-Footer.svg) 
 **Prevention and Treatment of Infectious Diseases Through Advancement in Research and Development**
 
 ## About Us
